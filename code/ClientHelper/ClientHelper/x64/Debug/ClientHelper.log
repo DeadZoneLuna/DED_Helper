@@ -1,0 +1,80 @@
+﻿  trampoline.cpp
+  hook.cpp
+  hde64.cpp
+  hde32.cpp
+  buffer.cpp
+  cBase.cpp
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(13): error C2144: синтаксическая ошибка: перед "auto" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(14): error C2144: синтаксическая ошибка: перед "auto" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(14): error C2086: int constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(13): см. объявление "constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(32): см. ссылку на создание экземпляров класса шаблон при компиляции "RandomGenerator<N>"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(20): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(20): error C2086: int RandomGenerator<N>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<N>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(22): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(22): error C2086: int RandomGenerator<N>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<N>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(23): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(23): error C2086: int RandomGenerator<N>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<N>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(24): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(24): error C2086: int RandomGenerator<N>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<N>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(25): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(25): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(25): error C2086: int RandomGenerator<N>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<N>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(26): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(26): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(26): error C2086: int RandomGenerator<N>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<N>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(27): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(27): error C2086: int RandomGenerator<N>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<N>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(30): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(30): error C2086: int RandomGenerator<N>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<N>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(31): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(31): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(31): error C2086: int RandomGenerator<N>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<N>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(36): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(36): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(41): error C2144: синтаксическая ошибка: перед "auto" требуется ";"
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(42): см. ссылку на создание экземпляров класса шаблон при компиляции "RandomInt<N,M>"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(41): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(41): error C2853: "value": нестатический элемент данных не может иметь тип, содержащий спецификатор auto
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(20): error C2086: int RandomGenerator<1>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<1>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(22): error C2086: int RandomGenerator<1>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<1>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(23): error C2086: int RandomGenerator<1>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<1>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(24): error C2086: int RandomGenerator<1>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<1>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(25): error C2086: int RandomGenerator<1>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<1>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(26): error C2086: int RandomGenerator<1>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<1>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(27): error C2086: int RandomGenerator<1>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<1>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(30): error C2086: int RandomGenerator<1>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<1>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(31): error C2086: int RandomGenerator<1>::constexpr: переопределение
+          c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(19): см. объявление "RandomGenerator<1>::constexpr"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(46): error C2597: недопустимая ссылка на нестатический член "RandomInt<0,126>::value"
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(46): error C3867: RandomInt<0,126>::value: в вызове функции отсутствует список аргументов; используйте "&RandomInt<0,126>::value" для создания указателя на член
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\XorStr.h(46): error C2568: +: не удается разрешить перегрузку функции
+          не удается восстановить после предыдущих ошибок; остановка компиляции
+  Создание кода...

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="cBase">
+      <UniqueIdentifier>{1c2b0883-dad6-4349-bbcf-eab11e9d7866}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sTools">
+      <UniqueIdentifier>{c67ff902-bf74-4c6c-8a09-4fa0b13866c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sTools\MH">
+      <UniqueIdentifier>{e252d73c-7326-498b-aff7-849c009c5266}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sTools\GameClasses">
+      <UniqueIdentifier>{1d39a30d-2275-4149-bee5-fa3cb84ada5e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cBase.h">
+      <Filter>cBase</Filter>
+    </ClInclude>
+    <ClInclude Include="vFunctions.h">
+      <Filter>sTools</Filter>
+    </ClInclude>
+    <ClInclude Include="XorStr.h">
+      <Filter>sTools</Filter>
+    </ClInclude>
+    <ClInclude Include="sTools.h">
+      <Filter>sTools</Filter>
+    </ClInclude>
+    <ClInclude Include="MH\MinHook.h">
+      <Filter>sTools\MH</Filter>
+    </ClInclude>
+    <ClInclude Include="MH\pstdint.h">
+      <Filter>sTools\MH</Filter>
+    </ClInclude>
+    <ClInclude Include="MH\table32.h">
+      <Filter>sTools\MH</Filter>
+    </ClInclude>
+    <ClInclude Include="MH\table64.h">
+      <Filter>sTools\MH</Filter>
+    </ClInclude>
+    <ClInclude Include="MH\trampoline.h">
+      <Filter>sTools\MH</Filter>
+    </ClInclude>
+    <ClInclude Include="MH\buffer.h">
+      <Filter>sTools\MH</Filter>
+    </ClInclude>
+    <ClInclude Include="MH\hde32.h">
+      <Filter>sTools\MH</Filter>
+    </ClInclude>
+    <ClInclude Include="MH\hde64.h">
+      <Filter>sTools\MH</Filter>
+    </ClInclude>
+    <ClInclude Include="cClasses.h">
+      <Filter>sTools\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="cSDK.h">
+      <Filter>sTools\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="cClassTools.h">
+      <Filter>sTools\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="eUpdate.h">
+      <Filter>sTools\GameClasses</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cBase.cpp">
+      <Filter>cBase</Filter>
+    </ClCompile>
+    <ClCompile Include="MH\hook.cpp">
+      <Filter>sTools\MH</Filter>
+    </ClCompile>
+    <ClCompile Include="MH\trampoline.cpp">
+      <Filter>sTools\MH</Filter>
+    </ClCompile>
+    <ClCompile Include="MH\buffer.cpp">
+      <Filter>sTools\MH</Filter>
+    </ClCompile>
+    <ClCompile Include="MH\hde32.cpp">
+      <Filter>sTools\MH</Filter>
+    </ClCompile>
+    <ClCompile Include="MH\hde64.cpp">
+      <Filter>sTools\MH</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

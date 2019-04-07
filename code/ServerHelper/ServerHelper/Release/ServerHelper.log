@@ -1,0 +1,18 @@
+﻿Сборка начата 04.11.2018 2:08:36.
+     1>Проект "C:\Users\IvanY\Desktop\ded_helper\code\ServerHelper\ServerHelper\ServerHelper.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /sdl /MP /O2 /Oi /Oy- /D _WINDLL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cBase.cpp
+         cBase.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\IvanY\Desktop\ded_helper\code\ServerHelper\Release\ServerHelper.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\IvanY\Desktop\ded_helper\code\ServerHelper\Release\ServerHelper.pdb" /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\IvanY\Desktop\ded_helper\code\ServerHelper\Release\ServerHelper.lib" /MACHINE:X86 /SAFESEH /DLL Release\cBase.obj
+         Release\buffer.obj
+         Release\hde32.obj
+         Release\hde64.obj
+         Release\hook.obj
+         Release\trampoline.obj
+         ServerHelper.vcxproj -> C:\Users\IvanY\Desktop\ded_helper\code\ServerHelper\Release\ServerHelper.dll
+     1>Сборка проекта "C:\Users\IvanY\Desktop\ded_helper\code\ServerHelper\ServerHelper\ServerHelper.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.95

@@ -1,0 +1,18 @@
+﻿  cBase.cpp
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\csdk.h(44): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\csdk.h(45): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\csdk.h(221): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\csdk.h(381): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\csdk.h(411): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\csdk.h(427): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\csdk.h(429): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\csdk.h(430): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\csdk.h(443): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  buffer.cpp
+  hde32.cpp
+  hde64.cpp
+  hook.cpp
+  trampoline.cpp
+  Создание кода...
+c:\users\ivany\desktop\ded_helper\code\clienthelper\clienthelper\stools.h(49): warning C4715: Tools::ConnectToDedicHelper: значение возвращается не при всех путях выполнения
+LINK : fatal error LNK1561: точка входа должна быть определена
